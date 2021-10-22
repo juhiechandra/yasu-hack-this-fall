@@ -4,7 +4,7 @@
 
 *OUR PROJECT:*
 
-![YASU](https://github.com/juhiechandra/yasu-hack-this-fall/blob/main/yasu-header.png)
+![YASU](https://github.com/juhiechandra/yasu-hack-this-fall/blob/3c1d15e5178df3053463ece6211fbc7d568aef68/yasu-header.png)
 
 
 
