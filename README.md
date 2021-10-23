@@ -29,6 +29,10 @@
 
   
   
+## Trivia
+
+The name Yasu is primarily a word of Japanese origin that means Calm. 
+Hence, bringing order to the chaotic world of healthcare around us.
 
 ## Tech Stack
 
