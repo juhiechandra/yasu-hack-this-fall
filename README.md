@@ -76,6 +76,6 @@ Supabase is always our team's go-to backend on hackathons. Not only it's fast an
 
 **Dhruvraj Solanki     [profile](https://github.com/dhruvsol)**
 
-**Rahul Shaw Dev     [profile](https://github.com/rahulshawdev)**
+<!-- **Rahul Shaw Dev     [profile](https://github.com/rahulshawdev)** -->
 
 **Juhie Chandra  [profile](https://github.com/juhiechandra)**
