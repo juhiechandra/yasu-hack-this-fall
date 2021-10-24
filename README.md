@@ -72,10 +72,4 @@ We used SCSS cuz it adds superpowers to Vanilla CSS. We could have used Vanilla 
 
 Supabase is always our team's go-to backend on hackathons. Not only it's fast and powerful but also very easy to integrate on our project within few clicks unlike firebase, which requires a lot of configuration.
 
-## CONTRIBUTORS
 
-**Dhruvraj Solanki     [profile](https://github.com/dhruvsol)**
-
-<!-- **Rahul Shaw Dev     [profile](https://github.com/rahulshawdev)** -->
-
-**Juhie Chandra  [profile](https://github.com/juhiechandra)**
